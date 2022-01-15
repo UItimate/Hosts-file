@@ -1,0 +1,123 @@
+127.0.0.1 localhost
+
+0.0.0.0 api.mixpanel.com
+
+0.0.0.0 spade.twitch.tv
+
+0.0.0.0 pubads.g.doubleclick.net
+
+0.0.0.0 sb.scorecardresearch.com
+
+0.0.0.0 video-weaver.sea01.his.ttvnw.net
+
+0.0.0.0 vaes.amazon-adsystem.com
+
+0.0.0.0 cdn-a.amazon-adsystem.com
+
+0.0.0.0 ad.doubleclick.net
+
+0.0.0.0 aax-us-east.amazon-adsystem.com
+
+0.0.0.0 s.amazon-adsystem.com
+
+0.0.0.0 px.moatads.com
+
+0.0.0.0 geo.moatads.com
+
+0.0.0.0 sejs.moatads.com
+
+0.0.0.0 mobile-static.adsafeprotected.com
+
+0.0.0.0 z.moatads.com
+
+0.0.0.0 ads.engagefront.com
+
+0.0.0.0 videos.cdn.engagefront.com
+
+0.0.0.0 images.cdn.engagefront.com
+
+##
+
+0.0.0.0 dsc.cisco.com
+
+0.0.0.0 cdn.cookielaw.org
+
+0.0.0.0 cisco.sc.omtrdc.net
+
+0.0.0.0 cdcvps.cloudapps.cisco.com
+
+0.0.0.0 mktcs.cloudapps.cisco.com
+
+0.0.0.0 www.cisco.com
+
+0.0.0.0 d.agkn.com
+
+0.0.0.0 are.googlesyndication.com
+
+0.0.0.0 vastlog.adsafeprotected.com
+
+0.0.0.0 ads.pubmatic.com
+
+0.0.0.0 u.openx.net
+
+0.0.0.0 gcdn.2mdn.net
+
+0.0.0.0 r4---sn-tt1e7n7l.c.2mdn.net
+
+0.0.0.0 vast.adsafeprotected.com
+
+0.0.0.0 api.adinplay.com
+
+0.0.0.0 googleads4.g.doubleclick.net
+
+0.0.0.0 match.adsrvr.org
+
+0.0.0.0 partner.googleadsservices.com
+
+0.0.0.0 www.google-analytics.com
+
+0.0.0.0 m.adnxs.com
+
+0.0.0.0 pagead2.googlesyndication.com
+
+0.0.0.0 secure.adnxs.com
+
+0.0.0.0 pixel.adsafeprotected.com
+
+0.0.0.0 dt.adsafeprotected.com
+
+0.0.0.0 sc.iasds01.com
+
+0.0.0.0 c.la3-c2-ia2.salesforceliveagent.com
+
+0.0.0.0 usermatch.krxd.net
+
+0.0.0.0 ciscosystemsinc.tt.omtrdc.net
+
+0.0.0.0 geolocation.onetrust.com
+
+0.0.0.0 cisco.demdex.net
+
+0.0.0.0 server.cpmstar.com
+
+0.0.0.0 adservice.google.com
+
+0.0.0.0 adservice.google.ca
+
+0.0.0.0 securepubads.g.doubleclick.net
+
+0.0.0.0 bid.g.doubleclick.net
+
+0.0.0.0 imasdk.googleapis.com
+
+0.0.0.0 match.adsrvr.org
+
+0.0.0.0 m.adnxs.com
+
+0.0.0.0 secure.adnxs.com
+
+0.0.0.0 ade.googlesyndication.com
+
+0.0.0.0 r1---sn-n5n3uxa-t9gl.googlevideo.com
+
+0.0.0.0 securepubads.g.doubleclick.net
