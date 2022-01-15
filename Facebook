@@ -15,6 +15,7 @@
 # to keep the block listing in the hosts file and not to remove it
 #
 ############################################
+172.0.0.1 localhost
 
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
